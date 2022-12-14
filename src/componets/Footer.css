@@ -1,0 +1,49 @@
+
+.boots {
+    background-color: #000;
+}
+.footer-h h2{
+    color: #fff;
+    padding-bottom: 20px;
+}
+.footer-h p{
+    color: #ffffffbf;
+    font-size: 16px;
+}
+.footer-h ul li{
+    color: #ffffffbf;
+    font-size: 16px;
+    line-height: 1.8;
+}
+.footer-list h2{
+    padding-left: 20px;
+}
+/* .parents {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    transition: all 0.2 linear;
+		background: #232323;
+}
+.child {
+    height: 300px;
+    box-shadow: 0 0 20px #bac3c3;
+    flex: 1 1 200px;
+    margin: 20px;
+}
+.child h2{
+	text-align: center;
+	padding-top: 20px;
+	color: #fff;
+	font-size: 20px;
+}
+.child p{
+	color: #ffff;
+}
+.child ul li{
+	line-height: 29px;
+	color: #fff;
+} */
